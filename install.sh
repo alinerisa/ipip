@@ -85,7 +85,7 @@ print_banner() {
 EOF
   echo -e "${RESET}"
   echo -e "${BOLD}${CYAN}Tunnel Manager v1.0 (Multi-tunnel)${RESET}"
-  echo -e "${GRAY}GitHub: github.com/alinerisa/ipip{RESET}"
+  echo -e "${GRAY}GitHub: github.com/alinerisa/ipip${RESET}"
   echo
 }
 
