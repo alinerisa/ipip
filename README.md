@@ -2,6 +2,7 @@
 direct ipip tunnel script
 
 Install
+<code>bash <(curl -Ls https://raw.githubusercontent.com/alinerisa/ipip/main/install.sh)</code>
 
 برای نصب اسکریپت رو کپی کنید
 
